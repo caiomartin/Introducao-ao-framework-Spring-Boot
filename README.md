@@ -2,12 +2,12 @@
 
 ## 1 - O que é o Spring Boot?
 - [x] O que é e quais problemas resolvem o Spring Boot?
-- [ ] Auto Configuration
-- [ ] FatJar/ UberJar
-- [ ] Certifique seu conhecimento
+- [x] Auto Configuration
+- [x] FatJar/ UberJar
+- [x] Certifique seu conhecimento
 ## 2 - Trabalhando com Profiles e Configurações
-- [ ] Importância dos Profiles
-- [ ] Configurações com Properties
+- [x] Importância dos Profiles
+- [x] Configurações com Properties
 - [ ] Configurações com YAML e command line
 - [ ] Configurações com variáveis de ambiente
 - [ ] Certifique seu conhecimento

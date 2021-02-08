@@ -8,9 +8,9 @@
 ## 2 - Trabalhando com Profiles e Configurações
 - [x] Importância dos Profiles
 - [x] Configurações com Properties
-- [ ] Configurações com YAML e command line
-- [ ] Configurações com variáveis de ambiente
-- [ ] Certifique seu conhecimento
+- [x] Configurações com YAML e command line
+- [x] Configurações com variáveis de ambiente
+- [x] Certifique seu conhecimento
 
 Esse e outros cursos gratuitos da Digital Innovation One você encontra [AQUI](https://digitalinnovation.one/)
 
